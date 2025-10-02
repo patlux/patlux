@@ -6,7 +6,7 @@ Software Engineer
 
 <br />
 
-Passionate software developer since the age of 16. Experienced frontend engineer with deep knowledge in JavaScript/TypeScript, React (Native) and Rust.
+Passionate software developer since the age of 16. Experienced frontend engineer with deep knowledge in JavaScript/TypeScript, React (Native) and Go.
 
 ## links
 
